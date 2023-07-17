@@ -45,7 +45,7 @@ To set up the project locally, follow these steps:
 
 ```shell
 git clone https://github.com/satyasaran/PINN_for_Non_Linear_PDE_in_Blood_Flow.git
-cd CropML
+cd PINN_for_Non_Linear_PDE_in_Blood_Flow
 python -m venv env
 source env/bin/activate (for Linux/Mac)
 env\Scripts\activate (for Windows)
