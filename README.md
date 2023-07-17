@@ -1,6 +1,6 @@
 # PINN_for_Non_Linear_PDE_in_Blood_Flow
 # Deep Learning Based Solution of Nonlinear Partial Differential Equations Arising in the Process of Arterial Blood flow 
- Bivas Bhaumik, Soumen De, and Satyasaran Changdar
+ Bivas Bhaumik, Soumen De, and Satyasaran Changdar: 
  Paper is Under review in Mathematics and Computers in Simulation
 
 This work introduces a Python implementation using DeepXDE, a deep learning library for solving partial differential equations (PDEs). The proposed deep learning approach analyzes perturbations in arterial blood flow,
