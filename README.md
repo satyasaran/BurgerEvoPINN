@@ -27,7 +27,7 @@ To run the code and reproduce the analysis, please use the `***` Jupyter Noteboo
 
 ## Usage
 
-Open the ***.ipynb notebook in Jupyter Notebook or any compatible notebook application. Run the notebook cells in sequential order to execute the code and reproduce the non-invasive phenotyping analysis. 
+Open the ***.ipynb notebook in Jupyter Notebook or any compatible notebook application. Run the notebook cells in sequential order to execute the code and reproduce the results of the work. 
 Feel free to modify the code, experiment with different machine learning models or techniques, and explore the results. Other .py files are our custome library files
 
 
