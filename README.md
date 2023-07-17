@@ -33,7 +33,7 @@ Feel free to modify the code, experiment with different machine learning models 
 
 Please refer to the notebook or relevant sections of the code for further details on the dataset's structure and preprocessing steps.
 ## Data
-The project's data (2018 and 2019, Raw data) is stored in the Data folder, which contains the necessary files for the analysis.
+Data used in this work are described in the Manuscript
 
 
 ## Contributing
