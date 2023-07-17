@@ -1,4 +1,4 @@
-# PINN_for_Non_Linear_PDE_in_Blood_Flow
+
 # Deep Learning Based Solution of Nonlinear Partial Differential Equations Arising in the Process of Arterial Blood flow 
  Bivas Bhaumik, Soumen De, and Satyasaran Changdar: 
  Paper is Under review in Mathematics and Computers in Simulation
