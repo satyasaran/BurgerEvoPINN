@@ -23,7 +23,6 @@ reductive perturbation method, the study derives nonlinear evolutionary equation
 trained via automatic differentiation, the implementation efficiently solves these equations. Bayesian Hyperparameter Optimization identifies the optimal neural network architecture, providing an efficient and accurate
 alternative to numerical methods for medical machine learning applications.
 
-To run the code and reproduce the analysis, please use the `***` Jupyter Notebook file.
 
 ## Usage
 
