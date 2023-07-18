@@ -27,8 +27,8 @@ To run the code and reproduce the analysis, please use the `***` Jupyter Noteboo
 
 ## Usage
 
-Open the ***.ipynb notebook in Jupyter Notebook or any compatible notebook application. Run the notebook cells in sequential order to execute the code and reproduce the results of the work. 
-Feel free to modify the code, experiment with different machine learning models or techniques, and explore the results. Other .py files are our custome library files
+Open the Burger_Bayesian.ipynb/Evol_Bayesian.ipynb notebook in Jupyter Notebook or any compatible notebook application and Burger_sin.ipynb/Evol_4th_order_Sin.ipynb for rest of the results. Run the notebook cells in sequential order to execute the code and reproduce the some of the results of the work. Other results can be obtained similary.
+Feel free to modify the code, experiment with for hyperparameter tuning and  different machine learning models or techniques, and explore the results. Other .py files are our custome library files
 
 
 Please refer to the notebook or relevant sections of the code for further details on the dataset's structure and preprocessing steps.
@@ -44,8 +44,8 @@ Contributions to this project are welcome! If you find any issues, have suggesti
 To set up the project locally, follow these steps:
 
 ```shell
-git clone https://github.com/satyasaran/PINN_for_Non_Linear_PDE_in_Blood_Flow.git
-cd PINN_for_Non_Linear_PDE_in_Blood_Flow
+git clone https://github.com/satyasaran/BurgerEvoPINN.git
+cd BurgerEvoPINN.git
 python -m venv env
 source env/bin/activate (for Linux/Mac)
 env\Scripts\activate (for Windows)
