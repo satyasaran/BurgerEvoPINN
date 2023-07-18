@@ -1,0 +1,17 @@
+# Add pip install commands for easy installation
+
+# Installing from PyPI (Python Package Index)
+numpy==1.21.0
+pandas==1.3.0
+matplotlib==3.4.2
+deepxde==0.9.0
+scikit-optimize==0.8.1
+
+# pip install from specific URLs (optional - only use if necessary)
+# For example, you can use this section to install specific versions not available on PyPI.
+
+# pip install from GitHub repositories (optional - only use if necessary)
+# For example, you can use this section to install packages directly from GitHub repositories.
+
+# pip install from local directories (optional - only use if necessary)
+# For example, you can use this section to install packages from local directories.
