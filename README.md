@@ -26,7 +26,7 @@ alternative to numerical methods for medical machine learning applications.
 
 ## Usage
 
-Open the Burger_Bayesian.ipynb/Evol_Bayesian.ipynb notebook in Jupyter Notebook or any compatible notebook application (jupyter lab) and Burger_sin.ipynb/Evol_4th_order_Sin.ipynb for rest of the results. Run the notebook cells in sequential order to execute the code and reproduce the some of the results of the work. Other results can be obtained similary.
+Open the Burger_Bayesian.ipynb/Evol_Bayesian.ipynb notebook in Jupyter Notebook or any compatible notebook application (jupyter lab) and Burger_sin.ipynb/Evol_4th_order_Sin.ipynb for rest of the results. Run the notebook cells in sequential order to execute the code and reproduce the some of the results of the work. Other results can be obtained similary..
 Feel free to modify the code, experiment with for hyperparameter tuning and  different machine learning models or techniques, and explore the results.
 ## Data
 Data used in this work are described in the Manuscript
