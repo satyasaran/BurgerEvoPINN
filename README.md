@@ -1,8 +1,7 @@
 
 # Deep Learning Based Solution of Nonlinear Partial Differential Equations Arising in the Process of Arterial Blood flow 
- Under review in Mathematics and Computers in Simulation
-# Authors
- Bivas Bhaumik, Soumen De, and Satyasaran Changdar: 
+Bivas Bhaumik, Soumen De, and Satyasaran Changdar: 
+Published in  Mathematics and Computers in Simulation 
 
 
 ## Table of Contents
